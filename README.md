@@ -1,16 +1,13 @@
 # club_app
 
-A new Flutter project.
+#DEMO Logins (Use these to test)
+Admin : admin@clubapp-a1.com
+Password : Admin123456789!
 
-## Getting Started
+Member/user : your gmail/ google account e.g dlamininondumiso@gmail.com
 
-This project is a starting point for a Flutter application.
+After signing in, as a customer you will be directed to a Dashboard that will enable you to browse on the services,
+club menu, etc about the club
+Signing as an Admin you will be directed to a dashboard that will enable you to modify what's on the customer's menu, services, upcoming events. in short the admin user is the club's reception. also updating orders that are ready for pickup etc.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
